@@ -1,7 +1,5 @@
 # HTML e CSS
 
----
-
 ### HTML:
 * HTML (Hyper-Text-Markup-Language) é uma linguagem usada para __descrever a estrutura de uma página__ e desenvolver qualquer site. 
 
@@ -22,6 +20,6 @@
 
 ---
 
-![diferença-HTML-CSS](https://github.com/anairam-fn/atividade-semanal1/blob/main/HTML-and-CSS.png)
-
 > Pode-se considerar, portanto, o HTML como a estrutura do esqueleto do corpo e o CSS como a aparência geral que o cobre.
+
+![diferença-HTML-CSS](https://github.com/anairam-fn/atividade-semanal1/blob/main/HTML-and-CSS.png)
