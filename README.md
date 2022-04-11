@@ -20,6 +20,10 @@
 
 ---
 
-> Pode-se considerar, portanto, o HTML como a estrutura do esqueleto do corpo e o CSS como a aparência geral que o cobre.
-
 ![diferença-HTML-CSS](https://github.com/anairam-fn/atividade-semanal1/blob/main/HTML-and-CSS.png)
+
+---
+
+Pode-se considerar, portanto, o HTML como a estrutura do esqueleto do corpo e o CSS como a aparência geral que o cobre.
+
+[Link para mais informações.](https://www.interviewbit.com/blog/difference-between-html-and-css/)
